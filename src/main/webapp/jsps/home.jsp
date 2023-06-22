@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla App project.</h1>
+<h1 align="center">Welcome to Tesla App project automation.</h1>
 <h2 align="center"> This is a zenon tech project. We are developing and supporting quality software solutions to millions of clients over the world
 	</h2>
 <hr>
